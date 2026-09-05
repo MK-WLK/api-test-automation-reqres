@@ -31,6 +31,18 @@ The project covers:
 
 The Postman collection currently contains 15 automated assertions across 5 API requests.
 
+## Test Results
+
+The Postman Collection Runner successfully executed all 5 requests with 15/15 assertions passing before the ReqRes anonymous API request limit was reached.
+
+- Requests: 5
+- Assertions: 15
+- Passed: 15
+- Failed: 0
+- Errors: 0
+
+> Note: The ReqRes demo API has a rate limit for anonymous requests. Subsequent executions may return HTTP 429 (`rate_limit_exceeded`) after the daily limit has been exhausted. These failures are caused by the external API rate limit rather than the test assertions themselves.
+
 ### Assertions include:
 
 - Expected HTTP status codes
