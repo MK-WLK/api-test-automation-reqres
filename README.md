@@ -8,7 +8,7 @@ This project is my introduction to API test automation and CI/CD.
 
 After spending roughly two years away from programming, I used this project to rebuild my programming fundamentals while learning API testing, JavaScript assertions, Postman, Newman, Git, and GitHub Actions.
 
-The project was developed with assistance from AI tools, primarily OpenAI's GPT-5.6 Luna and Anthropic Claude Sonnet 5.0. AI was used to explain unfamiliar programming concepts, troubleshoot issues, and guide implementation.
+The project was developed with assistance from AI tools, primarily OpenAI's GPT-5.6 Luna and Anthropic Claude Sonnet 5.0. AI was used to explain unfamiliar programming concepts, help with the code base, troubleshoot issues, and guide implementation.
 
 This repository documents my learning process and first practical API automation project.
 
