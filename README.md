@@ -1,10 +1,16 @@
-# API Test Automation — ReqRes
+# API Test Automation: ReqRes
 
 A hands-on API testing project created to practice API test automation using Postman and Newman.
 
 ## Project Overview
 
-This project tests the ReqRes REST API using a Postman collection with automated response assertions.
+This project is my introduction to API test automation and CI/CD.
+
+After spending roughly two years away from programming, I used this project to relearn programming concepts while getting hands-on experience with API testing, JavaScript assertions, Postman, Newman, Git, and GitHub Actions.
+
+The project was developed with assistance from AI tools, primarily OpenAI's GPT-5.6 Luna and Anthropic Claude Sonnet 5.0. The AI assistance was used to explain unfamiliar programming concepts, help build and troubleshoot test scripts, and guide me through the automation workflow.
+
+Rather than presenting this as production-level automation experience, this repository documents my learning process and my first practical API automation project.
 
 The project covers:
 
@@ -70,4 +76,15 @@ Newman can also be used to execute the collection from the command line.
 
 ## Project Goal
 
-This project is part of my learning journey into software QA automation, with a focus on API testing, test scripting, command-line execution, and CI/CD integration.
+The goal of this project was to rebuild my programming fundamentals while learning the basics of software QA automation.
+
+Through this project, I practiced:
+
+- Understanding REST API requests and responses
+- Writing JavaScript test assertions
+- Structuring API tests in Postman
+- Running tests with Newman from the command line
+- Using Git and GitHub for version control
+- Integrating automated tests into a GitHub Actions CI pipeline
+
+This project represents an early step in my transition from manual QA toward automation testing.
